@@ -36,6 +36,33 @@ esptool --chip esp32s3 --port COM3 --baud 921600 write_flash 0x0 firmware_v1.1.b
 ## Способ 4: Прошивка через Arduino IDE (для продвинутых и тех кто впервые использует данную программу)
 
 ```bash
+
+---
+
+## Установка Arduino IDE
+
+1. Перейдите на официальный сайт Arduino: https://www.arduino.cc/en/software
+2. Скачайте Arduino IDE версии 2.0 или выше (рекомендуется последняя стабильная версия)
+3. Установите программу, следуя инструкциям установщика
+
+---
+
+## Настройка ESP32 в Arduino IDE
+
+1. Запустите Arduino IDE
+2. Перейдите в меню `File` → `Preferences`
+3. В поле "Additional Boards Manager URLs" добавьте следующий URL:
+   ```
+   https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+   ```
+4. Нажмите OK
+5. Перейдите в меню `Tools` → `Board` → `Boards Manager`
+6. В поиске введите "ESP32"
+7. Найдите пакет "ESP32 by Espressif Systems" и нажмите "Install"
+8. Дождитесь завершения установки
+
+---
+
 ---
 
 ## Установка необходимых библиотек
