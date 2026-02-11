@@ -50,7 +50,7 @@
 
 | Главное окно | Макросы | Настройки | Обновления |
 |--------------|-------|---------|------------|
-| ![UI](screenshots/1111.png) | ![Macro](screenshots/112.png) | ![Setting](screenshots/113.png) | ![Updates](screenshots/updates_tab.png) |
+| ![UI](screenshots/111.png) | ![Macro](screenshots/112.png) | ![Setting](screenshots/113.png) | ![Updates](screenshots/updates_tab.png) |
 
 ## ⚠️ Важно
 
