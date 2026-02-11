@@ -48,9 +48,9 @@
 
 ## 📸 Скриншоты
 
-| Главное окно | Макросы | Настройки |
+| Главное окно | Комбо | Макросы | Обновления |
 |--------------|-------|---------|------------|
-| ![UI](screenshots/111.png) | ![Macro](screenshots/112.png) | ![Setting](screenshots/113.png) | 
+| ![UI](screenshots/main_ui.png) | ![Combo](screenshots/combo_settings.png) | ![Macro](screenshots/macro_table.png) | ![Updates](screenshots/updates_tab.png) |
 
 ## ⚠️ Важно
 
