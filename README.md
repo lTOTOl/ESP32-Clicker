@@ -50,7 +50,7 @@
 
 | Главное окно | Комбо | Макросы | Обновления |
 |--------------|-------|---------|------------|
-| ![UI](screenshots/main_ui.png) | ![Combo](screenshots/combo_settings.png) | ![Macro](screenshots/macro_table.png) | ![Updates](screenshots/updates_tab.png) |
+| ![UI](screenshots/111.png) | ![Combo](screenshots/combo_settings.png) | ![Macro](screenshots/macro_table.png) | ![Updates](screenshots/updates_tab.png) |
 
 ## ⚠️ Важно
 
