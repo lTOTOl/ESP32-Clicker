@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+dist/
+build/
+*.spec
+esp32_clicker_profiles.json
+
+# Arduino
+*.ino.hex
+*.ino.cpp
+*.ino.o
+*.ino.eep
+*.ino.elf
+
+# Logs
+*.log
