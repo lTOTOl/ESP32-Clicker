@@ -3,8 +3,8 @@
   "firmware_version": "1.1",
   "app_download_url": "https://github.com/lTOTOl/ESP32-Clicker/releases/download/v1.1/ESP32Clicker_v1.1.exe",
   "firmware_url": "https://github.com/lTOTOl/ESP32-Clicker/releases/download/v1.1/firmware_v1.1.bin",
-  "changelog_app": "• Стабильная",
-  "changelog_firmware": "• Stable\n• Stable\n• Stable",
+  "changelog_app": "• TEST",
+  "changelog_firmware": "• TEST\n• TEST\n• TEST",
   "min_firmware_version": "1.0",
   "min_app_version": "1.0",
   "release_date": "2026-02-11"
