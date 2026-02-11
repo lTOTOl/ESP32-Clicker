@@ -52,9 +52,9 @@ esptool --chip esp32s3 --port COM3 --baud 921600 write_flash 0x0 firmware_v1.1.b
 1. Запустите Arduino IDE
 2. Перейдите в меню `File` → `Preferences`
 3. В поле "Additional Boards Manager URLs" добавьте следующий URL:
-   ```
+   
    https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
-   ```
+   
 4. Нажмите OK
 5. Перейдите в меню `Tools` → `Board` → `Boards Manager`
 6. В поиске введите "ESP32"
